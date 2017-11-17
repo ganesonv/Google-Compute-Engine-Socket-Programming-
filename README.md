@@ -26,13 +26,13 @@ Compiles all the code files and runs the individual source code files server_or,
 Excecution of the project
 --------------------------------------
 Please perform the following steps to run the code:
-	1. open a terminal
-	2. Run: make all
-	3. Open four terminals and in each of those terminals:
-	4. Run: make server_or
-	5. Run: make server_and
-	6. Run: make edge
-	7. Run: ./client <input_filename.txt>
+	- open a terminal
+	- Run: make all
+	- Open four terminals and in each of those terminals:
+	- Run: make server_or
+	- Run: make server_and
+	- Run: make edge
+	- Run: ./client <input_filename.txt>
 
 ---------------------------------------
 Format of all the lines exchanged
